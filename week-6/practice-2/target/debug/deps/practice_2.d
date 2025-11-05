@@ -1,0 +1,5 @@
+C:\Users\mirac\OneDrive\Documents\m.nnadikeCOS101\week-6\practice-2\target\debug\deps\practice_2.d: src\main.rs
+
+C:\Users\mirac\OneDrive\Documents\m.nnadikeCOS101\week-6\practice-2\target\debug\deps\practice_2.exe: src\main.rs
+
+src\main.rs:
