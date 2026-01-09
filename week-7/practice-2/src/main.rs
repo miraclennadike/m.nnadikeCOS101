@@ -3,7 +3,7 @@ use std::io;
 fn checker() {
     let mut input = String::new();
     println!("Enter a character:");
-    io::stdin().read_lineO(&mut input).expect("Failed to read input");
+    io::stdin().read_line(&mut input).expect("Failed to read input");
     let ch:char = input.trim().parse().expect("Invalid input");
 
     if ch >= '0' && ch <= '9'
@@ -21,4 +21,4 @@ fn main() {
     contains a digit or not");
     checker()
 }
-}
+
